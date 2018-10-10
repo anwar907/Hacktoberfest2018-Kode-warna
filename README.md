@@ -1,2 +1,2 @@
 # Membuat-Kode-warna
-Aturan: masukan kode warna di dalam style css yang ada di dalam bahasa HTML 
+Aturan: masukan kode warna di dalam style css kemidian kasih warna text dan kasih background color pada text tersebut dengan cara memanggil variabel pada tyle css tersebut
