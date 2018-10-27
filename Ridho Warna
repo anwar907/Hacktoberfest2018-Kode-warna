@@ -1,0 +1,18 @@
+<html>
+  <head>
+
+    <title>Ridho Tri Kurniasandi</title>
+
+    <style>
+    #warna{
+      background-color: red;
+      color:blue;
+      font-size: 18px;
+    }
+    </style>
+  </head>
+  
+  <body>
+  <p id="warna"> Ridho Tri Kurniasandi </p>
+  </body>
+</html>
